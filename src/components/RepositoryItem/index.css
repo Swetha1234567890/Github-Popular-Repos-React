@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.list-item-container {
+  background-color: #f8f8ff;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 30px;
+}
+
+.avatar-img {
+  height: 200px;
+  width: 200px;
+}
+
+.stars-container {
+  display: flex;
+}
+
+.forks-container {
+  display: flex;
+}
+
+.issues-container {
+  display: flex;
+}
+
+.stars-img {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.forks-img {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.issues-img {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #e73959;
+}

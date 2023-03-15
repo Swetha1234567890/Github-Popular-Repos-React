@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.background-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Lobster';
+  font-size: 45px;
+}
+
+.tabs-list {
+  list-style-type: none;
+  display: flex;
+}
+
+.repositories-container {
+  list-style-type: none;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

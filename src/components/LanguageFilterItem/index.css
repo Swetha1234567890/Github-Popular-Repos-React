@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.tab-btn {
+  border-style: none;
+  font-family: 'Roboto';
+  font-size: 15px;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+.tabs-list-item-container {
+  display: flex;
+}
+
+.active-tab {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border-color: #0284c7;
+  color: #0284c7;
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.non-active-tab {
+  border-style: none;
+}
